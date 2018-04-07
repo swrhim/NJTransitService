@@ -1,0 +1,7 @@
+/Users/daniel/code/njtransit/NJTransit.Host/bin/Debug/netcoreapp2.0/NJTransit.Host.deps.json
+/Users/daniel/code/njtransit/NJTransit.Host/bin/Debug/netcoreapp2.0/NJTransit.Host.runtimeconfig.json
+/Users/daniel/code/njtransit/NJTransit.Host/bin/Debug/netcoreapp2.0/NJTransit.Host.runtimeconfig.dev.json
+/Users/daniel/code/njtransit/NJTransit.Host/bin/Debug/netcoreapp2.0/NJTransit.Host.dll
+/Users/daniel/code/njtransit/NJTransit.Host/bin/Debug/netcoreapp2.0/NJTransit.Host.pdb
+/Users/daniel/code/njtransit/NJTransit.Host/obj/Debug/netcoreapp2.0/NJTransit.Host.dll
+/Users/daniel/code/njtransit/NJTransit.Host/obj/Debug/netcoreapp2.0/NJTransit.Host.pdb

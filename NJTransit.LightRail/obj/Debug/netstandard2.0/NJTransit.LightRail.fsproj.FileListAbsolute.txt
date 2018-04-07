@@ -1,0 +1,12 @@
+/Users/daniel/code/njtransit/NJTransit.LightRail/bin/Debug/netstandard2.0/NJTransit.LightRail.deps.json
+/Users/daniel/code/njtransit/NJTransit.LightRail/bin/Debug/netstandard2.0/NJTransit.LightRail.dll
+/Users/daniel/code/njtransit/NJTransit.LightRail/bin/Debug/netstandard2.0/NJTransit.LightRail.pdb
+/Users/daniel/code/njtransit/NJTransit.LightRail/obj/Debug/netstandard2.0/NJTransit.LightRail.dll
+/Users/daniel/code/njtransit/NJTransit.LightRail/obj/Debug/netstandard2.0/NJTransit.LightRail.pdb
+/Users/daniel/code/njtransit/NJTransit.LightRail/bin/Debug/netstandard2.0/rail_data/agency.csv
+/Users/daniel/code/njtransit/NJTransit.LightRail/bin/Debug/netstandard2.0/rail_data/calendar_dates.csv
+/Users/daniel/code/njtransit/NJTransit.LightRail/bin/Debug/netstandard2.0/rail_data/routes.csv
+/Users/daniel/code/njtransit/NJTransit.LightRail/bin/Debug/netstandard2.0/rail_data/shapes.csv
+/Users/daniel/code/njtransit/NJTransit.LightRail/bin/Debug/netstandard2.0/rail_data/stop_times.csv
+/Users/daniel/code/njtransit/NJTransit.LightRail/bin/Debug/netstandard2.0/rail_data/stops.csv
+/Users/daniel/code/njtransit/NJTransit.LightRail/bin/Debug/netstandard2.0/rail_data/trips.csv
